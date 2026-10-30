@@ -64,5 +64,127 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-hanria-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://hanria.ai/
+HANRIA provides a decision point for agent commerce, enabling verification of AI agents' identities, mandates, and payment eligibility before actions are taken. It offers a mandate check, runtime enforcement, independent review, and record carrying to ensure accountability and compliance. The platform protects users from unauthorized agent actions and maintains transparent audit trails.
+
+**Areas:** AI · Agent · Identity · Verification · Payments · Compliance · Company
+
+## hanria-ai on APIs.io
+
+Everything profiled for hanria-ai is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/hanria-ai/](https://apis.io/providers/hanria-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Check](https://apis.io/apis/hanria-ai/check/) — Check a proposed agent action against an operator-authored mandate.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Hanria Ai Agentic Access](https://apis.io/agentic-access/hanria-ai/hanria-ai-agentic-access/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Hanria Ai Openapi Overlay](https://apis.io/overlays/hanria-ai/hanria-ai-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [hanria-ai API Rules](https://apis.io/rules/hanria-ai/hanria-ai-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Hanria Ai Authentication](https://apis.io/security/hanria-ai/hanria-ai-authentication/)
+- [Hanria Ai Domain Security](https://apis.io/security/hanria-ai/hanria-ai-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Hanria Ai Scopes](https://apis.io/scopes/hanria-ai/hanria-ai-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Hanria Ai Plans Pricing](https://apis.io/plans/hanria-ai/hanria-ai-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Hanria Ai Rate Limits](https://apis.io/rate-limits/hanria-ai/hanria-ai-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://hanria.ai/)
+- [Documentation](https://hanria.ai/developers/)
+- [Getting started](https://hanria.ai/how-it-works/)
+- [API reference](https://hanria.ai/guides/)
+- [Terms of service](https://hanria.ai/terms/)
+- [Privacy policy](https://hanria.ai/privacy/)
+
+## API Evangelist rating
+
+**Kin Score 28.3** — thin · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 0.0 |
+| Contract governance | 65.5 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 44.5 |
+| Access clarity | 21.1 |
+
+**Agent readiness 21.1** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 24.2** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/hanria-ai/](https://apis.io/providers/hanria-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for hanria-ai: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/hanria-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
